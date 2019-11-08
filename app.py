@@ -31,6 +31,6 @@ def play():
     return 'Sound played !'
 
 if __name__ == '__main__':
-    app.run(port=666)
+    app.run(port=5000)
 
 #TODO: Install "pip install playsound"
